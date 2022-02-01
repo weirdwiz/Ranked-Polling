@@ -1,5 +1,6 @@
 {
     "name": "beginning",
+	"main": "src/index.tsx",
     "version": "0.0.1",
     "description": "",
     "scripts": {
